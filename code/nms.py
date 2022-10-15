@@ -1,4 +1,4 @@
-def non_maximum_suppression_fast(boxes, overlapThresh=0.3):
+def non_maximum_suppression(boxes, overlapThresh=0.3):
 
     """""""""""""""""""""""""""""""""""""""""""""""""""""""""""
         Non-Maximum Suppression (Malisiewicz et al.)
